@@ -1,10 +1,12 @@
 body {
     font-family: 'Open Sans', sans-serif;
+    background-color: black;
 }
 
 .bg-viajeschile {
     background-color: rgb(100%, 88%, 88%); 
     z-index: 1;
+      
 }
 
 .logo-h {
@@ -20,15 +22,33 @@ body {
     font-weight: 700;
     padding: 1em 0;
 }
+
+.bg-destacados{
+    background-color: black;
+}
+
 .carousel-section{
 background-size: cover;
 }
 
 .bg-contacto{
+    background-color: white;
+}
 
-    background-color: black;
+.background_color_contacto{
+    background-color: cornflowerblue;
 }
 
 .background_color_footer{
     background-color: cornflowerblue;
+}
+
+#Contacto h2{
+    font-family: "Oswald";
+    font-size: 52px;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+      
 }
