@@ -1,0 +1,34 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.bg-viajeschile {
+    background-color: rgb(100%, 88%, 88%); 
+    z-index: 1;
+}
+
+.logo-h {
+    height: 1.25em;
+}
+
+.logofooter-h {
+    height: 4.5em;
+}
+
+.destacados {
+    color: #707070;
+    font-weight: 700;
+    padding: 1em 0;
+}
+.carousel-section{
+background-size: cover;
+}
+
+.bg-contacto{
+
+    background-color: black;
+}
+
+.background_color_footer{
+    background-color: cornflowerblue;
+}
